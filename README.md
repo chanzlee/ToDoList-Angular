@@ -1,4 +1,15 @@
-# ToDo
+### ToDo App with Angular
+
+Introduction to Angular with [Epicodus](https://www.epicodus.com/)
+Date Created: 10.22.2018
+Updated: 10.22.2018
+
+By _**Catherine Bradley**_
+Contact: _**catherinetybradley@gmail.com**_
+
+This application serves as my notes on Angular.
+
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 

@@ -1,3 +1,6 @@
+// Entry point for application. Provides instruction for assembling application.
+// Once launched, it will load root module which will load root component.
+
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
