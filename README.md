@@ -1,11 +1,11 @@
 ### ToDo App with Angular
 
-Introduction to Angular with [Epicodus](https://www.epicodus.com/)
-Date Created: 10.22.2018
-Updated: 10.22.2018
+Introduction to Angular with [Epicodus](https://www.epicodus.com/)<br/>
+Date Created: 10.22.2018<br/>
+Updated: 10.22.2018<br/>
 
-By _**Catherine Bradley**_
-Contact: _**catherinetybradley@gmail.com**_
+By _**Catherine Bradley**_<br/>
+Contact: _**catherinetybradley@gmail.com**_<br/>
 
 This application serves as my notes on Angular.
 
