@@ -8,6 +8,7 @@ import { NgModule } from '@angular/core';
 //NgModule imports general Module code from Angular framework
 import { AppComponent } from './app.component';
 //AppComponent is this app's root component. Angular CLI auto-creates this.
+import { FormsModule } from '@angular/forms';
 
 
 //Informs Angular this is a module. Includes declarations, imports, providers, and bootstrap
@@ -20,7 +21,8 @@ import { AppComponent } from './app.component';
 // import statements - imports other pieces of our application to include in this module.
 // above imports - import functionality from the Angular core.
   imports: [
-    BrowserModule
+    BrowserModule,
+    FormsModule
   ],
   providers: [],
 // "bootstrapping" - launching app with min required resources.
