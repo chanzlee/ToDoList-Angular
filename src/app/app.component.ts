@@ -39,10 +39,14 @@ export class AppComponent {
     new Task('Add README file to last few Angular repos on GitHub', "2")
   ];
 
-  selectedTask: Task = this.tasks[0];
+  selectedTask: Task = null;
 
   editTask(clickedTask) {
     this.selectedTask = clickedTask;
+  }
+
+  finishedEditing() {
+    this.selectedTask = null;
   }
 
   priorityColor(currentTask){
